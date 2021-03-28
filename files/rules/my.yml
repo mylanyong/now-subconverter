@@ -1,0 +1,25 @@
+port: 10809
+socks-port: 10808
+mixed-port: 10800
+allow-lan: false
+log-level: silent
+
+#hosts:
+  #'mtalk.google.com': 108.177.125.188
+  #   '*.clash.dev': 127.0.0.1
+  #   'alpha.clash.dev': '::1'
+dns:
+  enable: true
+  #ipv6: false
+  #listen: 0.0.0.0:53
+  #enhanced-mode: redir-host # 或 fake-ip
+  #fake-ip-range: 198.18.0.1/16 # 如果你不知道这个参数的作用，请勿修改
+  #fake-ip-filter: # fake-ip 白名单列表
+     #- '*.lan'
+     #- localhost.ptlogin2.qq.com
+     #- 'dns.msftncsi.com'
+     #- 'www.msftncsi.com'
+     #- 'www.msftconnecttest.com'
+  nameserver:
+    - 119.29.29.29
+    - 223.5.5.5

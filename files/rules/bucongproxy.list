@@ -1,0 +1,9 @@
+DOMAIN,regexr-cn.com
+DOMAIN,cloudtest.cc
+DOMAIN-SUFFIX,xiaoming.tk
+DOMAIN-SUFFIX,52.mk
+DOMAIN-SUFFIX,mygdindex.cf
+DOMAIN-SUFFIX,stboy.net
+DOMAIN-SUFFIX,kinh.cc
+DOMAIN-SUFFIX,greatfire.org
+IP-CIDR,74.222.3.0/24,no-resolve
